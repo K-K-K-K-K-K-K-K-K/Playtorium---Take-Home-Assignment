@@ -1,0 +1,6 @@
+{"discount": {  "coupon":{"amount":500,"percentage":0.1},
+                "on_top":[{"customer_point":59}, {"category":[
+                                                    {"name": "clothing", "percentage":0.2},
+                                                    {"name": "accessories", "percentage":0.2},
+                                                    {"name": "electronics", "percentage":0.0}]}],
+                "seasonnal":{"every":100, "discount": 5}} }

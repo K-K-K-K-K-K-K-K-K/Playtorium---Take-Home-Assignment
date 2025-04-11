@@ -1,0 +1,18 @@
+{"items":[{
+            "id": "0",
+            "name": "Laptop",
+            "amount": 100,
+            "category": "electronics"},
+
+            {"id": "1",
+            "name": "shoes",
+            "amount": 100,
+            "category": "clothing"},
+
+            {"id": "2",
+            "name": "sunglass",
+            "amount": 100,
+            "category": "accessories"}
+            
+            ]}
+
